@@ -92,10 +92,10 @@ O Cors permite que outras urls acessem nossa API.
 npm install cors
 ```
 
-<h3>Gaphql</h3>
+<h3>Graphql</h3>
 
  
-- Instalação do Gaphql
+- Instalação do Graphql
 
 ```
 npm install --save express-graphql
